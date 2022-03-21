@@ -1,0 +1,4 @@
+requests
+pycryptodomex
+python-telegram
+python-brightid
